@@ -1,2 +1,2 @@
-# practida2
+# practica2
 Examen tarea academica 2
